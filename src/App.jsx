@@ -98,11 +98,7 @@ function App() {
                 </li>
                 <li>
                   Create a new repository and give it a name (e.g., "my-website"). Make sure the repository is set to public.
-<<<<<<< HEAD
-                  <img src="images/new_repo.PNG" alt="Repository creation screenshot" />
-=======
-                  <img src="images/new_repo.PNG" alt="Repository creation screenshot" />
->>>>>>> fe4853d7e7b31a9dad9064574b396eaa19123703
+                  <img src="images/new_repo.PNG" alt="Repository creation picture" />
                 </li>
                 <li>
                   Download VSCode from {" "}
