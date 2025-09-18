@@ -98,7 +98,11 @@ function App() {
                 </li>
                 <li>
                   Create a new repository and give it a name (e.g., "my-website"). Make sure the repository is set to public.
-                  <img src="/instructions-site/images/new_repo.PNG" alt="Repository creation screenshot" />
+<<<<<<< HEAD
+                  <img src="images/new_repo.PNG" alt="Repository creation screenshot" />
+=======
+                  <img src="images/new_repo.PNG" alt="Repository creation screenshot" />
+>>>>>>> fe4853d7e7b31a9dad9064574b396eaa19123703
                 </li>
                 <li>
                   Download VSCode from {" "}
@@ -115,7 +119,7 @@ function App() {
                 </li>
                 <li>
                   Inside this folder, create a file named <code>index.html</code>.
-                  <img src="/instructions-site/images/index_create.PNG" />
+                  <img src="images/index_create.PNG" />
                 </li>
                 <li>
                   In your new file, copy and paste the following basic HTML template:
@@ -147,7 +151,7 @@ git add .
 git commit -m "Initial commit"
 git push -u origin main`}
                   </pre>
-                  <img src="/instructions-site/images/terminal.PNG" />
+                  <img src="images/terminal.PNG" />
                 </li>
                 <li>
                   Enable GitHub pages in your repository settings:
@@ -156,7 +160,7 @@ git push -u origin main`}
                     <li>Click on "Settings".</li>
                     <li>Scroll down to the "Pages" section.</li>
                     <li>Under "Source", select the branch "main" and click "Save".
-                      <img src="/instructions-site/images/publish_page.PNG" />
+                      <img src="images/publish_page.PNG" />
                     </li>
                   </ul>
                 </li>
@@ -395,7 +399,7 @@ git push -u origin main`}
                     <li>Click on "Settings".</li>
                     <li>Scroll down to the "Pages" section.</li>
                     <li>Under "Source", select the branch "main" and click "Save".
-                      <img src="/instructions-site/images/publish_page.PNG" />
+                      <img src="images/publish_page.PNG" />
                     </li>
                   </ul>
                 </li>
